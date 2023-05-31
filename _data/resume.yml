@@ -4,7 +4,7 @@
 title: "简历标题"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
 name: "雒蒙" # 你的名字
-jobtitle: "求职意向" # 可空不显示
+jobtitle: "光学工程师" # 可空不显示
 photo: "assets/img/Luo Meng.jpg" #照片可空，不显示
 
 #联系方式
@@ -15,7 +15,7 @@ contact: #联系方式连接等3~5行
 - text: "+(86) 158 0291 9267"
   href: 'tel:+(86) 158 0291 9267'
   icon: 'icons/phone.svg'
-- text: "CSDN blog"
+- text: "CSDN blog------勤奋的大熊猫"
   href: 'https://blog.csdn.net/u011699626?spm=1000.2115.3001.5343'
   icon: 'icons/web.svg'
 - text: "luomeng007"
